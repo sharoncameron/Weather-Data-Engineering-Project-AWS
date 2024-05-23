@@ -34,4 +34,4 @@ From the diagram above, the pipeline is:
     <img src="https://github.com/sharoncameron/Weather-Data-Engineering-Project-AWS/blob/main/Images/Grafana%20snapshot.png">
 </p>
 
-# Power BI
+
