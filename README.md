@@ -45,7 +45,7 @@ AWS Glue Workflow pipeline:
 ### Grafana
 [Grafana snapshot link](https://sharonedgecameron.grafana.net/dashboard/snapshot/iW2BF4zF08AaIwnOxbmTDNXxZO3GpdRU) 
 <p align="left">
-    <img src="https://github.com/sharoncameron/Weather-Data-Engineering-Project-AWS/blob/main/Images/Grafana%20snapshot.png">
+    <img src="https://github.com/sharoncameron/Weather-Data-Engineering-Project-AWS/blob/main/Images/Grafana_snapshot.png">
 </p>
 
 
